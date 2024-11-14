@@ -42,7 +42,7 @@ pip install ply
 - Run the desired parser file:
 
 ```bash
-python file_name.py
+python3 file_name.py
 ```
 
 - The program will prompt you for input (Input > ). You can enter a variety of statements, including variable declarations, loops, and if statements.
